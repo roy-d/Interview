@@ -1,7 +1,6 @@
 package unified
 
 import scala.annotation.tailrec
-import scala.collection.JavaConversions._
 
 // you can write to stdout for debugging purposes, e.g.
 // println("this is a debug message")
