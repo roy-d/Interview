@@ -1,5 +1,6 @@
 package lab
 
 object AnApp extends App {
-  println("This is an app")
+
+  println("i am just a teapot")
 }
